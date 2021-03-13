@@ -1,3 +1,8 @@
+# Moved
+
+This repository has been moved to:
+https://github.com/philipparndt/vscode-markdown-tables
+
 # Text Tables
 
 [![version][version-badge]][CHANGELOG]
